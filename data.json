@@ -1,0 +1,143 @@
+[
+    {
+        "id" : "a11673",
+        "build" : "apps/Arduboy3D/Source/Arduboy3D",
+        "license" : "MIT"
+    },
+    {
+        "id" : "fdac0b",
+        "build" : "apps/ArduboyWorks/chribocchi",
+        "license" : "MIT"
+    },
+    {
+        "id" : "6297d2",
+        "build" : "apps/ArduboyWorks/chiemagari",
+        "license" : "MIT"
+    },
+    {
+        "id" : "1c0f31",
+        "build" : "apps/ArduboyWorks/hollow",
+        "license" : "MIT"
+    },
+    {
+        "id" : "8d219b",
+        "build" : "apps/ArduboyWorks/hopper",
+        "license" : "MIT"
+    },
+    {
+        "id" : "8c8d94",
+        "build" : "apps/ArduboyWorks/knightmove",
+        "license" : "MIT"
+    },
+    {
+        "id" : "553a08",
+        "build" : "apps/ArduboyWorks/lasers",
+        "license" : "MIT"
+    },
+    {
+        "id" : "9ac2ca",
+        "build" : "apps/ArduboyWorks/pi24k",
+        "license" : "MIT"
+    },
+    {
+        "id" : "a7f4a5",
+        "build" : "apps/ArduboyWorks/psicolo",
+        "license" : "MIT"
+    },
+    {
+        "id" : "34a6d6",
+        "build" : "apps/ArduboyWorks/quarto",
+        "license" : "MIT"
+    },
+    {
+        "id" : "b27ae8",
+        "build" : "apps/ArduboyWorks/reversi",
+        "license" : "MIT"
+    },
+    {
+        "id" : "09bca0",
+        "build" : "apps/ArduboyWorks/samegame",
+        "license" : "MIT"
+    },
+    {
+        "id" : "9c79a5",
+        "build" : "apps/ArduboyWorks/stairssweep",
+        "license" : "MIT"
+    },
+    {
+        "id" : "3c1e5a",
+        "build" : "apps/CastleBoy/CastleBoy",
+        "license" : "MIT"
+    },
+    {
+        "id" : "143d5f",
+        "build" : "apps/MicroCity/Source/MicroCity",
+        "license" : "GPL3"
+    },
+    {
+        "id" : "299da2",
+        "build" : "apps/Nineteen43",
+        "license" : "MIT"
+    },
+    {
+        "id" : "658956",
+        "build" : "apps/APara",
+        "license" : "GPL3"
+    },
+    {
+        "id" : "4269dc",
+        "build" : "apps/1nvader/Invader",
+        "license" : "BSD3"
+    },
+    {
+        "id" : "8a676a",
+        "build" : "apps/minesweeper",
+        "license" : "GPL3"
+    },
+    {
+        "id" : "49fe58",
+        "build" : "apps/blocks",
+        "license" : "GPL3"
+    },
+    {
+        "id" : "9f0238",
+        "build" : "apps/ArduBuggy",
+        "license" : "Unlicense"
+    },
+    {
+        "id" : "a312cc",
+        "build" : "apps/arduman_arduboylib11",
+        "license" : "MIT"
+    },
+    {
+        "id" : "e3ab6e",
+        "build" : "apps/ArduboyGamepad",
+        "license" : "MIT"
+    },
+    {
+        "id" : "992e64",
+        "build" : "apps/ArduboyLife/ArduboyLife",
+        "license" : "MIT"
+    },
+    {
+        "id" : "3dfcef",
+        "build" : "apps/ArduLO/src/ArduLO",
+        "license" : "MIT"
+    },
+    {
+        "id" : "6e2fb9",
+        "build" : "apps/ArduMetronome/ArduMetronome",
+        "license" : "Apache2"
+    },
+    {
+        "id" : "383dc8",
+        "build" : "apps/TheQuestForTruth",
+        "license" : "LGPL3"
+    },
+    {
+        "id" : "207142",
+        "build" : "apps/ArduboyBackToTheJungle/back2jungle",
+        "license" : "BSD3"
+    }
+
+]
