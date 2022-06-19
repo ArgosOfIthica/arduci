@@ -1,0 +1,53 @@
+[submodule "apps/Arduboy3D"]
+	path = apps/Arduboy3D
+	url = https://github.com/ArgosOfIthica/Arduboy3D.git
+[submodule "apps/ArduboyWorks"]
+	path = apps/ArduboyWorks
+	url = https://github.com/ArgosOfIthica/ArduboyWorks.git
+[submodule "apps/CastleBoy"]
+	path = apps/CastleBoy
+	url = https://github.com/ArgosOfIthica/CastleBoy
+[submodule "apps/MicroCity"]
+	path = apps/MicroCity
+	url = https://github.com/ArgosOfIthica/MicroCity
+[submodule "apps/Nineteen43"]
+	path = apps/Nineteen43
+	url = https://github.com/ArgosOfIthica/Nineteen43.git
+[submodule "apps/1nvader"]
+	path = apps/1nvader
+	url = https://github.com/ArgosOfIthica/1nvader.git
+[submodule "apps/APara"]
+	path = apps/APara
+	url = https://github.com/ArgosOfIthica/APara.git
+[submodule "apps/minesweeper"]
+	path = apps/minesweeper
+	url = https://github.com/ArgosOfIthica/minesweeper.git
+[submodule "apps/blocks"]
+	path = apps/blocks
+	url = https://github.com/ArgosOfIthica/blocks.git
+[submodule "apps/ArduBuggy"]
+	path = apps/ArduBuggy
+	url = https://github.com/ArgosOfIthica/ArduBuggy.git
+[submodule "apps/arduman_arduboylib11"]
+	path = apps/arduman_arduboylib11
+	url = https://github.com/ArgosOfIthica/arduman_arduboylib11.git
+[submodule "apps/ArduboyGamepad"]
+	path = apps/ArduboyGamepad
+	url = https://github.com/ArgosOfIthica/ArduboyGamepad.git
+[submodule "apps/ArduboyLife"]
+	path = apps/ArduboyLife
+	url = https://github.com/ArgosOfIthica/ArduboyLife.git
+[submodule "apps/ArduLO"]
+	path = apps/ArduLO
+	url = https://github.com/ArgosOfIthica/ArduLO.git
+	branch = main
+[submodule "apps/ArduMetronome"]
+	path = apps/ArduMetronome
+	url = https://github.com/ArgosOfIthica/ArduMetronome.git
+[submodule "apps/TheQuestForTruth"]
+	path = apps/TheQuestForTruth
+	url = https://github.com/ArgosOfIthica/TheQuestForTruth.git
+	branch = development
+[submodule "apps/ArduboyBackToTheJungle"]
+	path = apps/ArduboyBackToTheJungle
+	url = https://github.com/ArgosOfIthica/ArduboyBackToTheJungle.git
